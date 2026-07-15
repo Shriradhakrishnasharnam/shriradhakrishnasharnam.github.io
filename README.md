@@ -1,6 +1,4 @@
-# Welcome to My GitHub
-
-# B. R. Shriradhakrishnasharnam
+# Welcome to the GitHub of B. R. Shriradhakrishnasharnam
 
 **Research Scholar • Software Developer • Open-Source Contributor • AI Enthusiast • Philosopher**
 
