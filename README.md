@@ -22,6 +22,56 @@ The official GitHub Pages website is available at the following address.
 
 > **Note:** If the default GitHub Pages homepage displays this README instead of the website, please use the **Official Website** button or the link above to access the complete homepage.
 
+## Features
+
+- Responsive Design
+- Academic Portfolio
+- Research Section
+- Publications
+- Projects
+- Skills
+- Music Portfolio
+- SEO Optimized
+- Sitemap
+- RSS Feed
+- Open Graph
+- Structured Data
+- Dark / Light Theme
+- GitHub Pages Ready
+
+## Tech Stack
+
+- Astro
+- TypeScript
+- CSS
+- HTML5
+
+## Development
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
+
+```bash
+npm run dev
+```
+
+Build:
+
+```bash
+npm run build
+```
+
+Preview:
+
+```bash
+npm run preview
+```
+
 ---
 
 # About
