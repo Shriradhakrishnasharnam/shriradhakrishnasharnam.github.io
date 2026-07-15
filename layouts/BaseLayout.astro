@@ -1,0 +1,104 @@
+---
+import { SEO } from "../utils/seo";
+---
+
+<title>{SEO.title}</title>
+
+<meta charset="UTF-8" />
+
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1.0"
+/>
+
+<meta
+  name="description"
+  content={SEO.description}
+/>
+
+<meta
+  name="author"
+  content={SEO.author}
+/>
+
+<meta
+  name="keywords"
+  content={SEO.keywords.join(", ")}
+/>
+
+<meta
+  name="robots"
+  content="index,follow,max-image-preview:large"
+/>
+
+<link
+  rel="canonical"
+  href={SEO.url}
+/>
+
+<meta property="og:type" content="website" />
+
+<meta property="og:title" content={SEO.title} />
+
+<meta property="og:description" content={SEO.description} />
+
+<meta property="og:url" content={SEO.url} />
+
+<meta property="og:image" content={`${SEO.url}${SEO.image}`} />
+
+<meta property="og:site_name" content={SEO.siteName} />
+
+<meta property="og:locale" content={SEO.locale} />
+
+<meta
+  name="twitter:card"
+  content="summary_large_image"
+/>
+
+<meta
+  name="twitter:title"
+  content={SEO.title}
+/>
+
+<meta
+  name="twitter:description"
+  content={SEO.description}
+/>
+
+<meta
+  name="twitter:image"
+  content={`${SEO.url}${SEO.image}`}
+/>
+
+<meta
+  name="twitter:creator"
+  content={SEO.twitter}
+/>
+
+<meta name="theme-color" content="#0f172a" />
+<meta name="color-scheme" content="light dark" />
+
+<link rel="icon" href="/favicon.svg" />
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Professor Dr. B. R. Shriradhakrishnasharnam",
+  "url": "https://shriradhakrishnasharnam.github.io",
+  "jobTitle": "Research Scholar",
+  "image": "https://shriradhakrishnasharnam.github.io/images/profile.jpg",
+  "sameAs": [
+    "https://github.com/Shriradhakrishnasharnam"
+  ],
+  "knowsAbout": [
+    "Sanskrit",
+    "Comparative Religion",
+    "Indian Philosophy",
+    "Artificial Intelligence",
+    "Software Engineering",
+    "Web Development",
+    "Space Science"
+  ]
+})} />
+
