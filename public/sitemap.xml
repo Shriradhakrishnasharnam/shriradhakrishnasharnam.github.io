@@ -1,0 +1,64 @@
+portfolio-v2/
+
+├── public/
+│   ├── favicon.svg
+│   ├── robots.txt
+│   ├── manifest.webmanifest
+│   ├── icons/
+│   ├── images/
+│   └── resume.pdf
+│
+├── src/
+│   ├── assets/
+│   │
+│   ├── components/
+│   │   Header.astro
+│   │   Footer.astro
+│   │   Hero.astro
+│   │   About.astro
+│   │   Education.astro
+│   │   Research.astro
+│   │   Publications.astro
+│   │   Skills.astro
+│   │   Experience.astro
+│   │   Awards.astro
+│   │   Projects.astro
+│   │   Music.astro
+│   │   Gallery.astro
+│   │   Contact.astro
+│   │   ThemeToggle.astro
+│   │   Card.astro
+│   │   Timeline.astro
+│   │   SectionTitle.astro
+│
+│   ├── layouts/
+│   │   BaseLayout.astro
+│
+│   ├── pages/
+│   │   index.astro
+│   │   research.astro
+│   │   publications.astro
+│   │   music.astro
+│   │   contact.astro
+│   │   404.astro
+│
+│   ├── styles/
+│   │   global.css
+│   │   variables.css
+│   │   animations.css
+│
+│   ├── data/
+│   │   profile.ts
+│   │   research.ts
+│   │   publications.ts
+│   │   skills.ts
+│   │   projects.ts
+│
+│   └── utils/
+│       seo.ts
+│
+├── astro.config.mjs
+├── package.json
+├── tsconfig.json
+├── README.md
+└── .gitignore
