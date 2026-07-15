@@ -1,45 +1,108 @@
-# B. R. Shriradhakrishnasharnam
+# Professor Dr. B. R. Shriradhakrishnasharnam
 
 **Research Scholar • Software Developer • Open-Source Contributor • AI Enthusiast • Philosopher**
 
-Welcome to my official GitHub profile and GitHub Pages repository.
+---
 
-I am passionate about building software that combines technology, research, and innovation. My interests span software engineering, artificial intelligence, web development, browser extensions, automation, scientific computing, Sanskrit studies, philosophy, and space science.
+## Official Website
 
-## Areas of Interest
+The official GitHub Pages website is available at the following address.
 
-* Artificial Intelligence & Machine Learning
-* Software Engineering
-* Full-Stack Web Development
-* Open-Source Software
-* Browser Extensions
-* Automation & Productivity Tools
-* Scientific Computing
-* Space Science & Astronomy
-* Sanskrit & Philosophy
-* Human-Computer Interaction
+<p align="center">
 
-## What You'll Find Here
+<a href="https://shriradhakrishnasharnam.github.io/index.html">
+<img src="https://img.shields.io/badge/Visit%20Official%20Website-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Official Website">
+</a>
 
-* Open-source software projects
-* Websites and web applications
-* AI experiments and utilities
-* Developer tools and browser extensions
-* Technical documentation
-* Research resources
-* Programming tutorials
-* Experimental projects
+</p>
 
-## Mission
+<p align="center">
 
-To create reliable, innovative, and accessible software that bridges knowledge, research, and modern technology while contributing to the global open-source community.
+</p>
 
-## Collaboration
-
-Contributions, suggestions, bug reports, and constructive feedback are always welcome. If you're interested in collaborating on research or software projects, feel free to open an issue or submit a pull request.
+> **Note:** If the default GitHub Pages homepage displays this README instead of the website, please use the **Official Website** button or the link above to access the complete homepage.
 
 ---
 
+# About
+
+B. R. Shriradhakrishnasharnam is a Research Scholar, Software Developer, Open-Source Contributor, and interdisciplinary researcher dedicated to integrating technology, scientific inquiry, and philosophical thought.
+
+His work spans multiple disciplines, including Software Engineering, Artificial Intelligence, Web Development, Scientific Computing, Sanskrit Studies, Philosophy, and Space Science.
+
+---
+
+# Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Software Engineering
+- Full-Stack Web Development
+- Open-Source Software
+- Browser Extensions
+- Automation & Productivity Tools
+- Scientific Computing
+- Space Science & Astronomy
+- Sanskrit Studies
+- Philosophy
+- Human–Computer Interaction
+
+---
+
+# Featured Work
+
+This GitHub profile contains projects and resources related to:
+
+- Open-Source Software Development
+- Artificial Intelligence Applications
+- Modern Web Development
+- Browser Extensions
+- Technical Documentation
+- Research Publications
+- Programming Tutorials
+- Software Utilities
+- Experimental Technologies
+- Scientific Computing
+
+---
+
+# Mission
+
+To develop reliable, innovative, and accessible software that advances research, education, and technology while contributing to the global open-source ecosystem.
+
+---
+
+# Collaboration
+
+Constructive feedback, feature requests, bug reports, and collaborative contributions are always welcome.
+
+If you are interested in collaborating on software development, research, or open-source initiatives, feel free to open an Issue or submit a Pull Request.
+
+---
+
+# Official Homepage
+
+<p align="center">
+
+<a href="https://shriradhakrishnasharnam.github.io/index.html">
+<img src="https://img.shields.io/badge/Open%20Official%20Homepage-181717?style=for-the-badge&logo=github&logoColor=white" alt="Homepage">
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://shriradhakrishnasharnam.github.io/index.html">
+<img src="https://img.shields.io/badge/Visit%20Official%20Website-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Official Website">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
 *"Knowledge grows when it is shared, and innovation thrives through collaboration."*
 
-Thank you for visiting my GitHub profile. Happy coding!
+**© B. R. Shriradhakrishnasharnam**
+
+</div>
