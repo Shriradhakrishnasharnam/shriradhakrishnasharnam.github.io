@@ -1,0 +1,59 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer>
+
+<div class="container">
+
+<p>
+
+© {year}
+
+Professor Dr. B. R. Shriradhakrishnasharnam
+
+</p>
+
+<p>
+
+Built with Astro
+
+</p>
+
+</div>
+
+</footer>
+
+<style>
+
+footer{
+
+padding:3rem 0;
+
+border-top:1px solid var(--border);
+
+margin-top:5rem;
+
+background:var(--surface);
+
+}
+
+.container{
+
+display:flex;
+
+justify-content:space-between;
+
+flex-wrap:wrap;
+
+gap:1rem;
+
+}
+
+p{
+
+color:var(--text-muted);
+
+}
+
+</style>
