@@ -1,0 +1,34 @@
+{
+  "name": "portfolio-v2",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Official Portfolio of Professor Dr. B. R. Shriradhakrishnasharnam",
+  "author": "Professor Dr. B. R. Shriradhakrishnasharnam",
+  "license": "MIT",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.11",
+    "@astrojs/sitemap": "^3.6.0",
+    "astro": "^5.14.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "keywords": [
+    "astro",
+    "portfolio",
+    "research",
+    "philosophy",
+    "sanskrit",
+    "professor",
+    "academic",
+    "website"
+  ]
+}
